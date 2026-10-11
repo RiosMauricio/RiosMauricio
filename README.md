@@ -32,4 +32,4 @@
 
 - Email: [riosmaurii@gmail.com](mailto:riosmaurii@gmail.com)
 - LinkedIn: [linkedin.com/in/rios-mauricio](https://www.linkedin.com/in/rios-mauricio)
-- Portfolio: [portfolio-zeta-opal-84.vercel.app](https://portfolio-zeta-opal-84.vercel.app)
+- Portfolio: [rios-mauricio.netlify.app](rios-mauricio.netlify.app)
