@@ -25,11 +25,11 @@
 
 ## Featured Projects
 
-- **[Portfolio](rios-mauricio.netlify.app)** — Personal portfolio built with React, TypeScript & Vite
+- **[Portfolio](https://rios-mauricio.netlify.app)** — Personal portfolio built with React, TypeScript & Vite
 - **[Rincones de Jujuy — Check-in](https://github.com/RiosMauricio/Rincones-de-jujuy-check_in)** — Hotel check-in system, Angular front-end
 
 ## Get in Touch
 
 - Email: [riosmaurii@gmail.com](mailto:riosmaurii@gmail.com)
 - LinkedIn: [linkedin.com/in/rios-mauricio](https://www.linkedin.com/in/rios-mauricio)
-- Portfolio: [rios-mauricio.netlify.app](rios-mauricio.netlify.app)
+- Portfolio: [rios-mauricio.netlify.app](https://rios-mauricio.netlify.app)
