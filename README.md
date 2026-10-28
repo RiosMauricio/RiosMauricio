@@ -65,9 +65,6 @@
 
 <img src="assets/sec-activity.svg" width="100%" alt="Activity" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiosMauricio/RiosMauricio/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/RiosMauricio/RiosMauricio/output/snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
-</picture>
+<img src="https://raw.githubusercontent.com/RiosMauricio/RiosMauricio/output/skyline.svg" width="100%" alt="My GitHub activity as a pixel night city: one building per week, with a plane towing my yearly contribution count" />
 
 <div align="center"><img src="assets/footer.svg" width="70%" alt="Insert coin to continue" /></div>
