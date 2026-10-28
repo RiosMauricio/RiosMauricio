@@ -1,32 +1,25 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="140" alt="Pixel-art avatar of Mauricio Rios" />
+<img src="assets/banner.svg" width="100%" alt="Mauricio Rios — Frontend / Full Stack Developer. I build web products end to end: polished, fast and accessible interfaces, from idea to production." />
 
-# Mauricio Rios
+<br/>
 
-**Frontend / Full Stack Developer** · React + TypeScript · Jujuy, Argentina 🇦🇷
-
-I build web products end to end: polished, fast and accessible interfaces, from idea to production.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rios--mauricio.netlify.app-63b3ed?style=flat-square&logo=netlify&logoColor=white)](https://rios-mauricio.netlify.app)
-[![CV](https://img.shields.io/badge/CV-PDF-f472b6?style=flat-square&logo=readthedocs&logoColor=white)](https://rios-mauricio.netlify.app/cv/CV-Mauricio-Rios.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rios--mauricio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rios-mauricio-4504532b9)
-[![Email](https://img.shields.io/badge/Email-riosmaurii%40gmail.com-22d3ee?style=flat-square&logo=gmail&logoColor=white)](mailto:riosmaurii@gmail.com)
-
-🟢 *Open to Frontend / Full Stack opportunities*
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-rios--mauricio.netlify.app-63b3ed?style=for-the-badge&labelColor=0b1329)](https://rios-mauricio.netlify.app)
+[![CV](https://img.shields.io/badge/▶_CV-PDF-f472b6?style=for-the-badge&labelColor=0b1329)](https://rios-mauricio.netlify.app/cv/CV-Mauricio-Rios.pdf)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-rios--mauricio-22d3ee?style=for-the-badge&labelColor=0b1329)](https://www.linkedin.com/in/rios-mauricio-4504532b9)
+[![Email](https://img.shields.io/badge/▶_EMAIL-riosmaurii@gmail.com-fbbf24?style=for-the-badge&labelColor=0b1329)](mailto:riosmaurii@gmail.com)
 
 </div>
 
----
+<img src="assets/sec-about.svg" width="100%" alt="About" />
 
-### 👾 About me
 
 - 💼 **Full Stack Developer** at Ministerio Público de la Acusación (2023 – present): React + Redux Toolkit systems in production — a Google Maps tools map, a scheduling app and a cost-calculation dashboard.
 - 🪙 Building in **Web3**: Solana integration for [julit](https://ju-lit.vercel.app) (B2B USDC payments) and the frontend of **nomai** (AI agents + Celo for tourism businesses).
 - 🎓 University Programming Analyst (UNJu) · currently studying Educational Computing.
 - 🌐 Spanish (native) · English (B2).
 
-### 🕹️ Featured projects
+<img src="assets/sec-projects.svg" width="100%" alt="Projects" />
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -35,7 +28,7 @@ I build web products end to end: polished, fast and accessible interfaces, from 
 | 🪙 **[julit](https://github.com/RiosMauricio/JuLit)** · [live](https://ju-lit.vercel.app) | B2B stablecoin (USDC) payments platform. I worked on the Solana integration. | Next.js · TS · Solana |
 | 🏨 **[Rincones de Jujuy — Check-in](https://github.com/RiosMauricio/Rincones-de-jujuy-check_in)** | Hotel check-in system with on-screen canvas signature and staff management. | Angular · Node.js · MySQL |
 
-### 🧰 Tech I use
+<img src="assets/sec-stack.svg" width="100%" alt="Tech stack" />
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -70,6 +63,11 @@ I build web products end to end: polished, fast and accessible interfaces, from 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+<img src="assets/sec-activity.svg" width="100%" alt="Activity" />
 
-<div align="center"><sub><code>&gt; insert coin to continue_</code></sub></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiosMauricio/RiosMauricio/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RiosMauricio/RiosMauricio/output/snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+</picture>
+
+<div align="center"><img src="assets/footer.svg" width="70%" alt="Insert coin to continue" /></div>
